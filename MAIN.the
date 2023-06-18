@@ -1,0 +1,24 @@
+/# this is a comment for the script
+
+public script MAIN extends [nothing] {
+    public int [number1] = 1!
+    public int [number2] = 1!
+    
+    printLine(["hello, world"])!
+    printLine([number1] + [number2])!
+    
+    public void start() {
+        int [load] = 0!
+        boolean [loaded] = false!
+        
+        while(not [loaded]) {
+            if(load == 100 and loaded = false) {
+                /# case its 100
+                loaded = true!
+            } else {
+                /# case its not 100
+                [load] += 1!
+            }
+        }
+    }
+}
