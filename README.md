@@ -1,2 +1,2 @@
 # Theraposa
-the best low-level programing language with the greatest performance
+the best high-level programing language with the greatest performance
