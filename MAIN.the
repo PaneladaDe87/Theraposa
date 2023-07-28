@@ -12,9 +12,9 @@ public script MAIN extends [nothing] {
         boolean [loaded] = false!
         
         while(not [loaded]) {
-            if(load == 100 and loaded = false) {
+            if([load] == 100 and [loaded] = false) {
                 /# case its 100
-                loaded = true!
+                [loaded] = true!
             } else {
                 /# case its not 100
                 [load] += 1!
