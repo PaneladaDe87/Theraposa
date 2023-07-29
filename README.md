@@ -23,3 +23,5 @@ Theraposa is inspired on a tarantula
 - **if**
 - **else**
 - **or**
+- **true**
+- **false**
