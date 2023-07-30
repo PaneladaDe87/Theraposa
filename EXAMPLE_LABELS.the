@@ -1,6 +1,6 @@
 /# this is a label example
 
-public class EXAMPLE_LABELS extends [nothing] {
+public script EXAMPLE_LABELS extends [nothing] {
     public label [static]!
     public static boolean [jump] = true!
 
