@@ -2,7 +2,7 @@
 Rugged, optimized and high level
 
 # Fun Facts
-Theraposa is inspired on a tarantula
+Theraposa is inspired on a tarantula(Theraposa Blondi)
 
 # How to use?
 **Theraposa** is complex, but with a bit knowledge, you are unlimited, see here a list of words:
